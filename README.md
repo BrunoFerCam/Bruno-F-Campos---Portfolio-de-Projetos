@@ -184,3 +184,90 @@ ________________________________________________________________________________
 <p> Continuamos a implementar o sistema ágil, que se mostrou bem mais necessário na hora de distribuir as tasks, já que eram bem mais numerosas e com dificuldades bem mais variadas que as do último projeto. </p><br>
 <p> Aprendi como lidar com dificuldades que possam aparecer com a conexão entre front e back-end. </p><br>
 <p> Tive a oportunidade de trabalhar com uma equipe com mais sintonia, o que trouxe muita fluidez ao projeto. </p><br>
+
+________________________________________________________________________________________________________________________________________________________________________
+
+<h4 id="2-semestre">SGA - Sistema de Gerenciamento de Ativos</h4>
+
+<p> O terceiro e mais recente projeto desenvolvido, o SGA se trata de um projeto muito útil e expansivo: Manter o controle de todo um sistema que permita que o administrador manipule e tenha informação completa sobre todos os ativos de sua empresa de forma organizada e ágil.</p>
+<p> O projeto foi dividido em duas frentes diferentes:</p>
+<p> O administrador, que tinha o poder de criar, editar e deletar ativos e membros do time, além de poder visualizar todos os ativos em uso ou estado de manutenção. Além disso, ele poderia marcar quais ativos estão sendo utilizados por qual usuário.</p>
+<p> E o usuário, que tinha o poder de alterar o estado de ativos que tivessem sido designados a ele.</p>
+
+<br></br>
+<p>O projeto também continha um sistema de gráficos com uma relação de custo e uso de cada ativo, reçacionando custos de uso e manutenção.</p>
+<p>Além disso, o projeto também continha um sistema de notificações, que notificava o usuário quando um ativo estava prestes a sair do estado de manutenção, ou quando um ativo estava sendo utilizado por outro usuário.</p>
+<br></br>
+<p> Nesse projeto, houve uma estipulação extra: Ele deveria ser feito no estilo single-page application, ou seja, uma página que funciona completamente na mesma rota.</p>
+
+<p>Foram utilizadas várias tecnologias novas e tecnologias antes exploradas só que com mais aprofundamento, como o Typescript e o CSS para a criação do frontend da página, o mySql para a criação do banco de dados que contém os ativos e usuários, além dos preços para os gráficos, o Node.js e o Spring para a criação da aplicação, O react para a implementação online do Typescript, o Java para a criação da lógica do backend, o Figma para a criação do wireframe e o Github para a organização.</p>
+
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+
+<h4> Minhas contribuições ao projeto: </h4>
+<p> Minha principal contribuição ao projeto foram contribuições do front-end do projeto, que dessa vez eram bem mais complexas em relação ao anterior. Também fui o responsável pela criação do wireframe do site, que foi feito no Figma. Nesse ponto, usei meu conhecimento até agora para criar um site com um design profissional e agradável seguindo os padrões de single-page application requeridos.</p>
+<br></br>
+<p>Também tive que dessa vez fazer contribuições ao backend para finalizar minhas tarefas, mesmo que não tenha tido que entrar em tanto contato com a lógica do backend, tive que entender como ele funcionava para poder implementar o front-end de forma correta.</p>
+
+<h4> O que aprendi: </h4>
+<p> - A importância de tecnologias como o Node.js e Spring, que facilitam o desenvolvimento de aplicações web e fornecem recursos poderosos para a criação de sistemas ágeis e eficientes. </p></br>
+<p> - Como o Typescript, mesmo que mais complicado, permite a criação de páginas web muito mais complexas e avançadas que o HTML. </p></br>
+<p> - A multitude de usos do Java, que permite conexões muito dinâmicas com o banco de dados. </p></br>
+<h4> Hard Skills: </h4>
+<table align="center">
+    <tr>
+      <th width="300px">Tecnologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Git / Github</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>React</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Css</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Node.js</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>mySql</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+  </table>
+<br>
+<h4> Soft Skills: </h4>
+<p> Aprendi como a comunicação com o cliente é importante, com a necessidade de apresentar metas plausíveis e de estabelescer entregas claras e concisas. </p>
+<p> Aprendi como a documentação e organização de tasks pode ser vital para uma equipe, permitindo que os membros balanceiem melhor suas tarefas e se comuniquem de forma mais eficiente. </p>
+<p> Melhorei minhas habilidades de comunicação com a equipe. </p>
+<br>
