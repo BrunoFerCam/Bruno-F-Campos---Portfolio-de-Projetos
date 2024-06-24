@@ -20,7 +20,7 @@ Os projetos listados a seguir serão estes que desenvolvi em grupo com colegas, 
 
 <h3 id="sobre-mim">Sobre mim</h3>
 </br>
-<p align="center"><img src="./arquivos/Foto2.png" alt="FotoBruno" style="width: 25%; border-radius: 50%;"></p>
+<p align="center"><img src="./Arquivos/Foto2.png" alt="FotoBruno" style="width: 25%; border-radius: 50%;"></p>
 
 Meu nome é Bruno Fernandes Campos. Sou natural de São José dos Campos, e desde criança, sempre fui muito ligado á tecnologia, sempre me envolvendo e tentando conhecer mais, principalmente por meio de jogos eletrônicos.
 <br></br>
@@ -43,12 +43,13 @@ Em 2023, após terminar o ensino médio, fiz o vestibular para o curso de desenv
 <p>Foram utilizadas várias tecnologias nesse primeiro projeto, como HTML, CSS, e React para a construção da página, e Python para a realização da raspagem de dados. Também foi utilizado o Github para a organização do projeto, e o Figma para a geração do wireframe.</p>
 
 
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 <h3> Projeto final: </h3>
 <img src="./Arquivos/1Semestre_API_Wireframe.gif" style = "width: 50%" alt = "Gif Projeto1">
