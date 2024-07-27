@@ -1,6 +1,6 @@
 <h1>Portfólio do Aluno - Bruno Fernandes Campos</h1>
 <h3>Curso: Desenvolvimento de software multiplataforma</h3>
-<h3>Fatec SJC - Jessen Vidal</h3>
+<h3>Fatec São José dos Campos - Jessen Vidal</h3>
 
 <h3>Sumário:</h3>
 Esse repositório foi criado com o propósito de armazenar e documentar o progresso e os projetos produzidos por mim até o presente momento na faculdade Fatec SJC - Jessen Vidal.
