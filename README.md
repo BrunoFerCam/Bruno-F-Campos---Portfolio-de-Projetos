@@ -275,7 +275,19 @@ ________________________________________________________________________________
 <br>
 
 <h4 id="4-semestre">Meteorological Data Collector</h4> <p>O **Meteorological Data Collector** foi desenvolvido para coletar, exibir e gerenciar dados meteorológicos em uma interface simples e intuitiva. Além disso, o projeto inclui um sistema de ensino básico, focado em introduzir conceitos matemáticos relacionados à meteorologia, como média aritmética, regra de três e gráficos.</p> <br></br> <p>O sistema exibe informações meteorológicas em tempo real, como temperatura, umidade e velocidade do vento, extraídas de uma API externa. Esses dados são organizados em gráficos e tabelas para fácil análise. Já a parte educacional conta com módulos interativos para aprendizado, com exercícios práticos e material didático diretamente relacionados aos dados meteorológicos apresentados.</p> <br></br> <p>Para a implementação do projeto, utilizamos tecnologias como React e TypeScript no front-end, Node.js para a criação da API do sistema, e Docker para containerização e deploy. O Google Cloud foi usado como infraestrutura para hospedar e escalar a aplicação. Além disso, para o armazenamento de dados, optamos por um banco relacional (MySQL) para garantir a consistência e organização das informações.</p>
-CSSHTMLTypeScriptReactNode.js
-MySQL
+
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+ 
+
 
 <h3> Projeto final: </h3> <img src="./Arquivos/MeteorologicalDataCollector.png" style="width: 50%" alt="Imagem Projeto Meteorological Data Collector"> <h4> Minhas contribuições ao projeto: </h4> <p>Minha principal responsabilidade foi o desenvolvimento completo do front-end, garantindo que todas as funcionalidades fossem exibidas de forma clara e acessível para os usuários. Além disso, fui responsável pelo deploy do projeto utilizando Docker para criar os containers e o Google Cloud para hospedar a aplicação, garantindo sua disponibilidade e escalabilidade.</p> <br></br> <p>Essas tarefas foram extremamente desafiadoras, mas também muito recompensadoras, pois me permitiram aprimorar minhas habilidades em containerização e deploy, além de consolidar meu conhecimento em desenvolvimento front-end.</p> <br></br> <h4> O que aprendi: </h4> <p> - Como utilizar Docker para criar e gerenciar containers de forma eficiente.</p></br> <p> - Processos de deploy em cloud utilizando o Google Cloud Platform.</p></br> <p> - Desenvolvimento de interfaces interativas e responsivas utilizando React e TypeScript.</p></br> <p> - Integração de APIs para exibir dados em tempo real.</p></br> <h4> Hard Skills: </h4> <table align="center"> <tr> <th width="300px">Tecnologia</th> <th width="300px">Classificação</th> </tr> <tr> <td>Docker</td> <td>★★★☆☆</td> </tr> <tr> <td>Google Cloud</td> <td>★★★☆☆</td> </tr> <tr> <td>React</td> <td>★★★★☆</td> </tr> <tr> <td>TypeScript</td> <td>★★★★☆</td> </tr> <tr> <td>Node.js</td> <td>★★★☆☆</td> </tr> <tr> <td>MySQL</td> <td>★★★☆☆</td> </tr> </table> <br> <h4> Soft Skills: </h4> <p> - Melhorias na organização e planejamento de tarefas em equipe utilizando metodologias ágeis.</p><br> <p> - Adaptação a novas ferramentas e tecnologias em curto prazo.</p><br> <p> - Comunicação clara e eficiente com colegas para integrar diferentes partes do sistema.</p><br>
