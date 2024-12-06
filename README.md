@@ -13,6 +13,7 @@ Os projetos listados a seguir serão estes que desenvolvi em grupo com colegas, 
 
 <h3>Índice: </h3>
 * <a href="#sobre-mim" style="color: white;">Sobre mim</a><br>
+* <a href="#habilidades" style="color: white;">Principais Habilidades</a><br>
 * <a href="#projetos" style="color: white;">Meus projetos</a></br>
 * <a href="#1-semestre">1º Semestre:</a> (<a href="https://github.com/api-fatec-primeiro-semestre/api-primeiro-semestre" target="_blank">Sistema de análise de dados relacionados à Covid Longa</a>)</br>
 * <a href="#2-semestre">2º Semestre:</a> (<a href="https://github.com/BananaaScript/BetterCallUs" target="_blank">Better Call Us - Sistema de chamadas de serviço</a>)</br>
@@ -33,6 +34,15 @@ Em 2023, após terminar o ensino médio, fiz o vestibular para o curso de desenv
 <br></br>
 
 <h4 align="center"><a target="_blank" href="https://www.linkedin.com/in/bruno-campos-97560b231/">Linkedin</a> | <a target="_blank" href="https://github.com/BrunoFerCam">Github</a></h4>
+
+<h3 id="habilidades">Principais habilidades:</h3>
+
+* Typescript - Experiência em diversos projetos.
+* Html e Css - Uso para a liderança na criação de diversos frontends.
+* Python - Experiência contínua com a integração de várias funções.
+* Docker - Maestria em criar e manter imagens e contêineres.
+* Google Cloud - Capacidade de criar, subir e fazer deploys na nuvem.
+* SQL - Experiência com a criação e integração de bancos de dados.
 
 <h3 id="projetos">Projetos:</h3>
 
@@ -74,34 +84,34 @@ Em 2023, após terminar o ensino médio, fiz o vestibular para o curso de desenv
     </tr>
     <tr>
       <td>Git / Github</td>
-      <td>★★★☆☆</td>
+      <td>Uso sem dificuldade superficialmente.</td>
     </tr>
     <tr>
       <td>Python</td>
-      <td>★★☆☆☆</td>
+      <td>Consigo criar e compreender funções simples e medianas.</td>
     </tr>
     <tr>
       <td>Flask</td>
-      <td>★★☆☆☆</td>
+      <td>Consigo usar para criar sites simples com o apoio dos outros membros.</td>
     </tr>
     <tr>
       <td>Html</td>
-      <td>★★★★☆</td>
+      <td>Bem versado nesta área, consigo criar páginas complexas com várias funcionalidades.</td>
     </tr>
     <tr>
       <td>Css</td>
-      <td>★★★★☆</td>
+      <td>Uso a tecnologia em conjunto com o HTML para criar páginas web agradáveis aos clientes.</td>
     </tr>
     <tr>
       <td>Figma</td>
-      <td>★★★★☆</td>
+      <td>Bem versado em criar os wireframes que servem como planta do site.</td>
     </tr>
   </table>
 <br>
 <h4> Soft Skills: </h4>
-<p> Aprendi como funciona o sistema de desenvolvimento ágil, e como é importante a comunicação entre os membros da equipe. </p><br>
-<p> Aprendi a importância da documentação e de técnicas de organização como as tasks da sprint e do planning poker. </p><br>
-<p> Comecei a me adaptar ao estilo de ensino da Fatec, esta sendo minha primeira vez em uma faculdade com um estilo de ensino mais não ortodoxo. </p><br>
+<p> Durante minha jornada acadêmica e projetos realizados, desenvolvi diversas soft skills que foram fundamentais para meu aprendizado e evolução. Aprendi a importância de trabalhar com metodologias ágeis, compreendendo o funcionamento do sistema de desenvolvimento ágil e a necessidade de uma comunicação clara e eficiente entre os membros da equipe. Além disso, aperfeiçoei minha organização e planejamento, aplicando ferramentas como tasks da sprint e técnicas como o planning poker, que ajudaram a estruturar melhor as etapas de desenvolvimento.
+
+Outro aspecto marcante foi a adaptação ao estilo de ensino da Fatec, um método mais inovador e não ortodoxo em comparação com minhas experiências anteriores. Essa adaptação exigiu resiliência e flexibilidade, contribuindo para minha capacidade de enfrentar novos desafios e me ajustar a diferentes contextos acadêmicos e profissionais. </p><br>
 
 ________________________________________________________________________________________________________________________________________________________________________
 
@@ -146,50 +156,40 @@ ________________________________________________________________________________
     </tr>
     <tr>
       <td>Git / Github</td>
-      <td>★★★★☆</td>
+      <td>Consigo manusear e gerenciar repositórios sem dificuldades.</td>
     </tr>
     <tr>
       <td>Html</td>
-      <td>★★★★☆</td>
+      <td>Consigo criar páginas com facilidade.</td>
     </tr>
     <tr>
       <td>Css</td>
-      <td>★★★★★</td>
+      <td>Total controle e liberdade sobre a estilização.</td>
     </tr>
     <tr>
       <td>Figma</td>
-      <td>★★★★★</td>
+      <td>Dominei completamente o uso da plataforma para criar wireframes.</td>
     </tr>
     <tr>
       <td>Typescript</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Node.js</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Spring</td>
-      <td>★☆☆☆☆</td>
+      <td>Consigo realizar tarefas mais simples relacionadas ao frontend, como a integração.</td>
     </tr>
     <tr>
       <td>mySql</td>
-      <td>★☆☆☆☆</td>
+      <td>Compreendo as lógicas de bancos de dados existentes mas tenho dificuldades em criá-los.</td>
     </tr>
   </table>
 <br>
 <h4> Soft Skills: </h4>
-<p> Continuamos a implementar o sistema ágil, que se mostrou bem mais necessário na hora de distribuir as tasks, já que eram bem mais numerosas e com dificuldades bem mais variadas que as do último projeto. </p><br>
-<p> Aprendi como lidar com dificuldades que possam aparecer com a conexão entre front e back-end. </p><br>
-<p> Tive a oportunidade de trabalhar com uma equipe com mais sintonia, o que trouxe muita fluidez ao projeto. </p><br>
+<p> Durante o desenvolvimento deste projeto, aprimorei minhas habilidades em metodologias ágeis, consolidando a aplicação do sistema ágil para distribuir tarefas. Essa abordagem foi crucial devido ao aumento no volume e na complexidade das tasks em comparação ao projeto anterior.
+
+Também desenvolvi resolução de problemas técnicos, especialmente ao lidar com dificuldades na integração entre front-end e back-end, adquirindo mais experiência em comunicação entre sistemas.
+
+Por fim, trabalhar com uma equipe mais integrada e sincronizada proporcionou uma colaboração mais fluida, reforçando a importância do trabalho em equipe para o sucesso do projeto. </p><br>
 
 ________________________________________________________________________________________________________________________________________________________________________
 
-<h4 id="2-semestre">SGA - Sistema de Gerenciamento de Ativos</h4>
+<h4 id="3-semestre">SGA - Sistema de Gerenciamento de Ativos</h4>
 
 <p> O terceiro e mais recente projeto desenvolvido, o SGA se trata de um projeto muito útil e expansivo: Manter o controle de todo um sistema que permita que o administrador manipule e tenha informação completa sobre todos os ativos de sua empresa de forma organizada e ágil.</p>
 <p> O projeto foi dividido em duas frentes diferentes:</p>
@@ -232,49 +232,42 @@ ________________________________________________________________________________
     </tr>
     <tr>
       <td>Git / Github</td>
-      <td>★★★★★</td>
+      <td>Tenho total controle e domínio em relação a coisas como branches e submódulos.</td>
     </tr>
     <tr>
       <td>React</td>
-      <td>★★★☆☆</td>
+      <td>Me familiarizei com a tecnologia e consigo usá-la para criar páginas.</td>
     </tr>
     <tr>
       <td>Css</td>
-      <td>★★★★★</td>
+      <td>Domino o uso da tecnologia, e a uso para treinar minhas habilidades de design web.</td>
     </tr>
     <tr>
       <td>Figma</td>
-      <td>★★★★★</td>
+      <td>Dominei completamente o uso da plataforma para criar wireframes.</td>
     </tr>
     <tr>
       <td>Typescript</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Node.js</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>★★☆☆☆</td>
-    </tr>
-    <tr>
-      <td>Spring</td>
-      <td>★★☆☆☆</td>
+      <td>Consigo usar a ferramenta para a criação e controle de ambos frontend e backend.</td>
     </tr>
     <tr>
       <td>mySql</td>
-      <td>★☆☆☆☆</td>
+      <td>Consigo criar bancos de dados simples.</td>
     </tr>
   </table>
 <br>
 <h4> Soft Skills: </h4>
-<p> Aprendi como a comunicação com o cliente é importante, com a necessidade de apresentar metas plausíveis e de estabelescer entregas claras e concisas. </p>
-<p> Aprendi como a documentação e organização de tasks pode ser vital para uma equipe, permitindo que os membros balanceiem melhor suas tarefas e se comuniquem de forma mais eficiente. </p>
-<p> Melhorei minhas habilidades de comunicação com a equipe. </p>
+<p> Durante este projeto, aprimorei minhas habilidades em comunicação com o cliente, aprendendo a importância de estabelecer metas plausíveis e definir entregas claras e objetivas. Essa prática foi essencial para alinhar expectativas e garantir a satisfação do cliente ao longo do processo.
+
+Também desenvolvi um entendimento mais aprofundado sobre a importância da documentação e organização de tasks. Percebi como essas ferramentas podem ser vitais para o equilíbrio das atividades entre os membros da equipe, permitindo uma distribuição mais eficiente das tarefas e promovendo um fluxo de trabalho mais colaborativo.
+
+Além disso, tive a oportunidade de melhorar minha comunicação com a equipe, o que contribuiu para fortalecer o alinhamento entre os membros e aumentar a fluidez no desenvolvimento do projeto. Essa experiência reforçou como uma comunicação aberta e eficiente é essencial para o sucesso de qualquer iniciativa em grupo.
+</p>
 <br>
 
-<h4 id="4-semestre">Meteorological Data Collector</h4> <p>O **Meteorological Data Collector** foi desenvolvido para coletar, exibir e gerenciar dados meteorológicos em uma interface simples e intuitiva. Além disso, o projeto inclui um sistema de ensino básico, focado em introduzir conceitos matemáticos relacionados à meteorologia, como média aritmética, regra de três e gráficos.</p> <br></br> <p>O sistema exibe informações meteorológicas em tempo real, como temperatura, umidade e velocidade do vento, extraídas de uma API externa. Esses dados são organizados em gráficos e tabelas para fácil análise. Já a parte educacional conta com módulos interativos para aprendizado, com exercícios práticos e material didático diretamente relacionados aos dados meteorológicos apresentados.</p> <br></br> <p>Para a implementação do projeto, utilizamos tecnologias como React e TypeScript no front-end, Node.js para a criação da API do sistema, e Docker para containerização e deploy. O Google Cloud foi usado como infraestrutura para hospedar e escalar a aplicação. Além disso, para o armazenamento de dados, optamos por um banco relacional (MySQL) para garantir a consistência e organização das informações.</p>
+<h4 id="4-semestre">Meteorological Data Collector</h4> 
+
+<p>O **Meteorological Data Collector** foi desenvolvido para coletar, exibir e gerenciar dados meteorológicos em uma interface simples e intuitiva. Além disso, o projeto inclui um sistema de ensino básico, focado em introduzir conceitos matemáticos relacionados à meteorologia, como média aritmética, regra de três e gráficos.</p> <br></br> <p>O sistema exibe informações meteorológicas em tempo real, como temperatura, umidade e velocidade do vento, extraídas de uma API externa. Esses dados são organizados em gráficos e tabelas para fácil análise. Já a parte educacional conta com módulos interativos para aprendizado, com exercícios práticos e material didático diretamente relacionados aos dados meteorológicos apresentados.</p> <br></br> <p>Para a implementação do projeto, utilizamos tecnologias como React e TypeScript no front-end, Node.js para a criação da API do sistema, e Docker para containerização e deploy. O Google Cloud foi usado como infraestrutura para hospedar e escalar a aplicação. Também fiquei reponsável pelo sistema de educação necessário para a página</p>
 
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -290,4 +283,52 @@ ________________________________________________________________________________
  
 
 
-<h3> Projeto final: </h3> <img src="./Arquivos/MeteorologicalDataCollector.png" style="width: 50%" alt="Imagem Projeto Meteorological Data Collector"> <h4> Minhas contribuições ao projeto: </h4> <p>Minha principal responsabilidade foi o desenvolvimento completo do front-end, garantindo que todas as funcionalidades fossem exibidas de forma clara e acessível para os usuários. Além disso, fui responsável pelo deploy do projeto utilizando Docker para criar os containers e o Google Cloud para hospedar a aplicação, garantindo sua disponibilidade e escalabilidade.</p> <br></br> <p>Essas tarefas foram extremamente desafiadoras, mas também muito recompensadoras, pois me permitiram aprimorar minhas habilidades em containerização e deploy, além de consolidar meu conhecimento em desenvolvimento front-end.</p> <br></br> <h4> O que aprendi: </h4> <p> - Como utilizar Docker para criar e gerenciar containers de forma eficiente.</p></br> <p> - Processos de deploy em cloud utilizando o Google Cloud Platform.</p></br> <p> - Desenvolvimento de interfaces interativas e responsivas utilizando React e TypeScript.</p></br> <p> - Integração de APIs para exibir dados em tempo real.</p></br> <h4> Hard Skills: </h4> <table align="center"> <tr> <th width="300px">Tecnologia</th> <th width="300px">Classificação</th> </tr> <tr> <td>Docker</td> <td>★★★☆☆</td> </tr> <tr> <td>Google Cloud</td> <td>★★★☆☆</td> </tr> <tr> <td>React</td> <td>★★★★☆</td> </tr> <tr> <td>TypeScript</td> <td>★★★★☆</td> </tr> <tr> <td>Node.js</td> <td>★★★☆☆</td> </tr> <tr> <td>MySQL</td> <td>★★★☆☆</td> </tr> </table> <br> <h4> Soft Skills: </h4> <p> - Melhorias na organização e planejamento de tarefas em equipe utilizando metodologias ágeis.</p><br> <p> - Adaptação a novas ferramentas e tecnologias em curto prazo.</p><br> <p> - Comunicação clara e eficiente com colegas para integrar diferentes partes do sistema.</p><br>
+<h3> Projeto final: </h3>
+
+[![Assista ao vídeo](./Arquivos/TitleScreen.png)](https://youtu.be/biOxUisMmRA)
+
+<h4> Minhas contribuições ao projeto: </h4> 
+<p>Minha principal responsabilidade foi o desenvolvimento completo do front-end, garantindo que todas as funcionalidades fossem exibidas de forma clara e acessível para os usuários. Além disso, fui responsável pelo deploy do projeto utilizando Docker para criar os containers e o Google Cloud para hospedar a aplicação, garantindo sua disponibilidade e escalabilidade.</p> <br></br> <p>Essas tarefas foram extremamente desafiadoras, mas também muito recompensadoras, pois me permitiram aprimorar minhas habilidades em containerização e deploy, além de consolidar meu conhecimento em desenvolvimento front-end.</p> <br></br> <h4> O que aprendi: </h4> <p> - Como utilizar Docker para criar e gerenciar containers de forma eficiente.</p></br>
+<p> - Processos de deploy em cloud utilizando o Google Cloud Platform.</p></br> 
+<p> - Desenvolvimento de interfaces interativas e responsivas utilizando React e TypeScript.</p></br> 
+<p> - Integração de APIs para exibir dados em tempo real.</p></br> 
+<h4>Hard Skills:</h4>
+<table align="center">
+  <tr>
+    <th width="300px">Tecnologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Docker</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>★★★☆☆</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>★★★☆☆</td>
+  </tr>
+</table>
+<br>
+<h4>Soft Skills:</h4>
+<p>- Durante este projeto, desenvolvi várias soft skills essenciais, especialmente diante de desafios significativos enfrentados pela equipe. Dois membros abandonaram o time durante a execução, o que exigiu uma reorganização das tarefas e redistribuição de responsabilidades. Isso reforçou a importância de planejamento eficiente e organização das tasks, utilizando metodologias ágeis para manter o progresso do projeto e assegurar entregas de qualidade.
+
+Também precisei me adaptar rapidamente a novas ferramentas e tecnologias, especialmente no contexto de uma equipe reduzida, o que exigiu flexibilidade e aprendizado acelerado para cobrir áreas que antes não estavam sob minha responsabilidade direta, principalmente o docker e o google cloud.
+
+Além disso, foi fundamental manter uma comunicação clara e eficiente com os colegas para garantir a integração de diferentes partes do sistema, especialmente com o responsável pelo deploy. A expertise dele em DevOps foi essencial para superar obstáculos técnicos e possibilitar um processo de deploy mais fluido e confiável, mesmo sob pressão.</p>
+<br>
+
