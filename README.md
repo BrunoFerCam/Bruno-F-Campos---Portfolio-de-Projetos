@@ -300,27 +300,19 @@ Além disso, tive a oportunidade de melhorar minha comunicação com a equipe, o
   </tr>
   <tr>
     <td>Docker</td>
-    <td>★★★★☆</td>
+    <td>Como responsável pelo deploy, aprendi a criar e distribuir imagens para a criação de contêineres.</td>
   </tr>
   <tr>
     <td>Google Cloud</td>
-    <td>★★★★☆</td>
+    <td>Como responsável pelo deploy, aprendi a manusear o sistema do cloud run</td>
   </tr>
   <tr>
     <td>React</td>
-    <td>★★★★☆</td>
+    <td>Consigo usar a biblioteca para criar páginas web com facilidade.</td>
   </tr>
   <tr>
     <td>TypeScript</td>
-    <td>★★★★☆</td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td>★★★☆☆</td>
-  </tr>
-  <tr>
-    <td>MySQL</td>
-    <td>★★★☆☆</td>
+    <td>Consigo criar e compreender lógica para ambos frontend e backend sem dificuldades.</td>
   </tr>
 </table>
 <br>
