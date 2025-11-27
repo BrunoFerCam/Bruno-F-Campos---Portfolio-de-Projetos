@@ -324,3 +324,93 @@ Também precisei me adaptar rapidamente a novas ferramentas e tecnologias, espec
 Além disso, foi fundamental manter uma comunicação clara e eficiente com os colegas para garantir a integração de diferentes partes do sistema, especialmente com o responsável pelo deploy. A expertise dele em DevOps foi essencial para superar obstáculos técnicos e possibilitar um processo de deploy mais fluido e confiável, mesmo sob pressão.</p>
 <br>
 
+<h4 id="5-semestre">Plataforma de Criação e Gerenciamento de Agentes de IA</h4>
+
+<p>
+O quinto projeto teve como foco resolver um problema comum em empresas de tecnologia: a dificuldade de centralizar e distribuir conhecimento sobre seus próprios sistemas, processos internos e regras de negócio. Muitas vezes, usuários internos dependem de especialistas para tirar dúvidas simples, o que gera filas, atrasos e sobrecarga da equipe de suporte.
+</p>
+
+<p>
+A solução proposta foi a criação de uma plataforma que permite o desenvolvimento e gerenciamento de múltiplos agentes de Inteligência Artificial, cada um com um conjunto específico de conhecimentos sobre áreas distintas da empresa. Esses agentes podem responder perguntas, explicar funcionalidades e orientar usuários sobre fluxos internos de maneira imediata.
+</p>
+
+<p>
+Além disso, o sistema conta com um esquema de permissões: cada usuário tem acesso apenas aos agentes autorizados pelo administrador, garantindo organização e segurança na distribuição das informações.
+</p>
+
+<h3> Projeto final: </h3>
+<a href="https://www.youtube.com/watch?v=Vcj0OSQSGQQ" target="_blank">
+    <img src="https://img.youtube.com/vi/Vcj0OSQSGQQ/maxresdefault.jpg" style="width: 50%;" alt="Vídeo do Projeto 5">
+</a>
+
+<h4> Minhas contribuições ao projeto: </h4>
+<p>
+Neste projeto, atuei como <b>principal responsável pelo desenvolvimento do front-end mobile</b>. Criei as telas, fluxos e interações do aplicativo, com foco especial no chat inteligente — incluindo a integração em tempo real com os agentes via WebSocket.
+</p>
+
+<p>
+Também desenvolvi a lógica de exibição e controle de permissões dentro do app, garantindo que cada usuário visualizasse apenas os agentes e conversas autorizados. Para isso, foi necessário compreender a arquitetura geral da plataforma e colaborar com o backend para a definição de rotas, níveis de acesso e estrutura do banco de dados.
+</p>
+
+ ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+ ![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=socketdotio&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<h4> O que aprendi: </h4>
+<p> - A lidar com fluxos complexos em aplicativos móveis usando React Native e Typescript. </p></br>
+<p> - Como integrar chats em tempo real utilizando WebSocket em um ambiente mobile. </p></br>
+<p> - Como estruturar a lógica de permissões de acesso entre usuários, agentes e histórico de conversas. </p></br>
+<p> - A importância da comunicação entre equipes para alinhar regras de negócio e comportamento do sistema. </p></br>
+
+<h4> Hard Skills: </h4>
+<table align="center">
+    <tr>
+      <th width="300px">Tecnologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>React Native</td>
+      <td>Principal responsável pelo front-end mobile do projeto.</td>
+    </tr>
+    <tr>
+      <td>Typescript</td>
+      <td>Domínio no desenvolvimento da lógica e integração do app.</td>
+    </tr>
+    <tr>
+      <td>WebSocket</td>
+      <td>Integração completa do chat em tempo real com os agentes.</td>
+    </tr>
+    <tr>
+      <td>SQL</td>
+      <td>Compreensão e colaboração na estrutura do banco de dados.</td>
+    </tr>
+    <tr>
+      <td>Node.js / Spring</td>
+      <td>Capacidade de integração e entendimento do backend para alinhar funcionalidades.</td>
+    </tr>
+</table>
+
+<br>
+
+<h4> Soft Skills: </h4>
+<p>
+Durante o desenvolvimento, aprimorei minha capacidade de comunicação entre equipes, já que o projeto exigia forte alinhamento entre front-end e backend para garantir que permissões, agentes e fluxos de conversa funcionassem corretamente. 
+</p>
+
+<p>
+Também desenvolvi organização e clareza na definição de requisitos, pois o sistema tinha diversas regras e níveis de acesso que precisavam ser estruturados com precisão.
+</p>
+
+<p>
+Por fim, fortaleci minha autonomia no desenvolvimento de interfaces complexas em mobile, assumindo um papel de liderança técnica dentro da equipe no front-end.
+</p>
+<br>
+
