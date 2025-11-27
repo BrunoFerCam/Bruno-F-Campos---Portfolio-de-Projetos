@@ -19,7 +19,7 @@ Os projetos listados a seguir serão estes que desenvolvi em grupo com colegas, 
 * <a href="#2-semestre">2º Semestre:</a> (<a href="https://github.com/BananaaScript/BetterCallUs" target="_blank">Better Call Us - Sistema de chamadas de serviço</a>)</br>
 * <a href="#3-semestre">3º Semestre:</a> (<a href="https://github.com/BananaaScript/SGA" target="_blank">SGA - Sistema gerenciador de ativos</a>)</br>
 * <a href="#4-semestre">4º Semestre:</a> (<a href="https://github.com/BananaScripts/Meteorological-Data-Collector" target="_blank">Seth - Meteorological Data Collector</a>)</br>
-
+* <a href="#5-semestre">5º Semestre:</a> (<a href="https://github.com/BananaScripts/API_5-Semester" target="_blank">Plataforma de Criação e Gerenciamento de Agentes de IA</a>)</br>
 
 <h3 id="sobre-mim">Sobre mim</h3>
 </br>
